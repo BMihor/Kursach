@@ -1,0 +1,42 @@
+.poleznoZnat{
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
+
+.poleznoZnatTitle{
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    background: url(../img/caption.png) no-repeat;
+    display: block;
+    position: relative;
+}
+
+.znatTitle{
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 13px;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+}
+
+.poleznoZnatInfo ul{
+    width: 190px;
+    margin: auto;
+    display: block;
+}
+
+.poleznoZnatInfo ul li{
+    list-style-image:url(../img/ico-faq.gif);
+    height: 50px;
+    padding-top: 10px;
+    border-bottom: 1px dotted #98999b;
+}

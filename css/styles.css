@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background: url(../img/background.png) repeat;
+}
+
+#container {
+    width:1200px;
+    margin: 0 auto;
+    position: relative;
+}
